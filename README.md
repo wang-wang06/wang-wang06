@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi there，我是 wangkaifeng
 
-<!--
-**wang-wang06/wang-wang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 计算机爱好者，正在学习编程。
 
-Here are some ideas to get you started:
+✨ 兴趣方向：
+- Python、代码实践
+- 大数据、开源项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 欢迎交流！
+
+---
+### 📊 简单统计
+- 🔧 正在学习：编程开发
+- 📚 最近在捣鼓：Git、GitHub、数据采集与融合
+
+### 🎯 小目标
+持续学习，多多写代码，积累项目。
